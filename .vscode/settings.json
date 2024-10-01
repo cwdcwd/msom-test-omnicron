@@ -1,0 +1,14 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.js": "javascript",
+        "*.json": "jsonc",
+        "*.sh": "shellscript",
+        "*.ts": "typescript",
+        "*.ino": "cpp",
+        "chrono": "cpp"
+    },
+    "particle.firmwareVersion": "5.9.0",
+    "particle.targetDevice": "0a10aced202194944a051e8c"
+}
